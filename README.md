@@ -1,4 +1,4 @@
-# [Prosper Loan](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/ProsperLoan/Part_I_exploration_template.ipynb)
+# [Prosper Loan](https://github.com/ramanprecious/Prosper-Data-Exploration/blob/main/Part_I_exploration_template.ipynb)
 
 A financial technology company is a place where you can borrow and lend money. Fintech companies are easing payment processes, reducing fraud, saving users money, promoting financial planning, and ultimately moving a massive industry forward. Prosper is one of the Fintech companies that have been making waves over the years.
 
@@ -42,7 +42,7 @@ Other features explored include: Prosper rating, Borrowers' Rate, Term, Credit g
 
 > High risk loans have a higher lender yield. This is profitable for lenders, as borrowers with poor credit rating will have higher APR which returns higher yields. Also, there are many defaulted loans in the high risk category, thereby proving that the prosper rating system for loan approval is somewhat accurate.
 
-The html file containing the slidedeck for this project is found [here](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/ProsperLoan/Part_II_slide_deck_template.slides.html)
+The html file containing the slidedeck for this project is found [here](https://github.com/ramanprecious/Prosper-Data-Exploration/blob/main/Part_II_slide_deck_template.slides.html)
 
 
 
